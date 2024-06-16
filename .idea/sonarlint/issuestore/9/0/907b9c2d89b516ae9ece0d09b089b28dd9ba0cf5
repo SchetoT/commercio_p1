@@ -1,0 +1,12 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ô™¥Ò8œ±®”‚2J$6bfb1643-0c2e-4216-b6a8-7b16c01f01b1
+m	java:S106"+Replace this use of System.err by a logger.(Æ÷æµ8œ±®”‚2J$64f9c6ec-1abe-4d25-bf77-ce578d91367a
+r	java:S106"+Replace this use of System.err by a logger.(Ñá›Ôÿÿÿÿÿ8±®”‚2J$98dca7fe-0cbe-4d8d-aec3-a61bc68e43c6
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8èß‹•‚2
+r	java:S106+"+Replace this use of System.out by a logger.(ç‡ĞÁûÿÿÿÿ8 ±®”‚2J$732ebb57-cab4-4190-9115-1d98f3ff696f
+m	java:S106."+Replace this use of System.err by a logger.(ÛêŠü8 ±®”‚2J$18fcd8aa-62a6-4883-ba21-fc6ea42dc4be
+m	java:S106;"+Replace this use of System.out by a logger.(´¸ é8¢±®”‚2J$4caa3fdc-317e-42e2-a41d-7ae122a614f4
+r	java:S106="+Replace this use of System.out by a logger.(µÈàˆşÿÿÿÿ8¢±®”‚2J$961e5700-d873-463a-b729-b8afb993c67e
+m	java:S106B"+Replace this use of System.err by a logger.(„‡™â8¢±®”‚2J$3a934701-df59-4f9e-945d-bf974c51158e
+ƒ	java:S125I"<This block of commented-out lines of code should be removed.(‚Ÿæ·ÿÿÿÿÿ8¤±®”‚2J$74f97b47-276b-4d69-8b1d-facd04fc6909

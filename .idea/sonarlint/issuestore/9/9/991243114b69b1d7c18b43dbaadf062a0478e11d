@@ -1,0 +1,12 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(õüÒıÿÿÿÿ8Ï×¶”‚2
+G	java:S106"+Replace this use of System.err by a logger.(˜¥ğ¶8Ğ×¶”‚2
+F	java:S106$"+Replace this use of System.err by a logger.(ùÃáx8Ñ×¶”‚2
+H
+java:S1168%"+Return an empty collection instead of null.(¥¹ï8Ò×¶”‚2
+L	java:S1063"+Replace this use of System.err by a logger.(šğ’¢ÿÿÿÿÿ8Ó×¶”‚2
+F	java:S106O"+Replace this use of System.out by a logger.(»ã¼N8Ô×¶”‚2
+L	java:S106U"+Replace this use of System.err by a logger.(ıÑâàûÿÿÿÿ8Õ×¶”‚2
+L	java:S106g"+Replace this use of System.out by a logger.(´š‹æşÿÿÿÿ8Ö×¶”‚2
+G	java:S106m"+Replace this use of System.err by a logger.(¬õï8××¶”‚2
+X	java:S125v"<This block of commented-out lines of code should be removed.(ÈíğÎ8Ø×¶”‚2
